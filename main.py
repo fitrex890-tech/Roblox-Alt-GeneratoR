@@ -20,7 +20,7 @@ tree = app_commands.CommandTree(bot)
 DAILY_FILE = "daily_counter.json"
 BOT_VERSION = "1.2"
 DEVELOPER = "RealFitrex"
-GROUP = "Zjednoczone Idee"
+GROUP = "Zjednoczone Ideą"
 
 # ==================== TOKEN FIX (RAILWAY SAFE) ====================
 
